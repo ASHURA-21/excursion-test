@@ -1,6 +1,7 @@
 body{
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header{
@@ -32,7 +33,19 @@ section p{
     color: gray;
 }
 
+
+footer{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 footer p{
     text-align: right;
     color: gray;
+}
+footer img{
+    margin-top: 1em;
+}
+
+footer a{
+    color: aquamarine;
 }
